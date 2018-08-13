@@ -1,5 +1,16 @@
 # Django-Project-1--DerekBanas--
-Django
+
+video 1 : installation & Getting Started Tutorial
+
+video 2 : MVC , Connecting URLS to Functions, Settings, SQLite and More
+
+video 3 : Admin, Databases, Templates, Form Processing and More
+
+video 4 : Generic Views and Automated Testing
+
+video 5 : Style Sheets, Admin Pages, Settings, Models and More
+
+video Link : [Youtube] (https://www.youtube.com/watch?v=Ky59C5geOtg&list=PLGLfVvz_LVvSMqZiTTsAC7C8Ypp81Jt6D)
 
 Bu proje içerisinde INSTALLED_APPS'e uygulamanın farklı eklenmesini
 
@@ -15,6 +26,4 @@ Question'a ait test fonksiyonları yazıldı .
 
 html ve css dosyalrı az miktarda yapılarak genel bilgi sağlandı
 
-
 testleri çalıştırmak için ; ./manage.py test polls komutu verilmelidir
-
